@@ -4,15 +4,15 @@
 
 ## Tính năng
 
-- ✅ Đăng ký/Đăng nhập bằng Email/Password
-- ✅ Đăng nhập bằng Google
-- ✅ Lưu thông tin người dùng vào Firestore
-- ✅ Quản lý state với Provider
-- ✅ Giao diện đẹp và responsive
-- ✅ Hỗ trợ Android và iOS
-- ✅ **Tạo và quản lý công thức nấu ăn**
-- ✅ **Tính toán chi phí nguyên liệu**
-- ✅ **Tìm kiếm công thức**
+- Đăng ký/Đăng nhập bằng Email/Password
+- Đăng nhập bằng Google
+- Lưu thông tin người dùng vào Firestore
+- Quản lý state với Provider
+- Giao diện đẹp và responsive
+- Hỗ trợ Android và iOS
+- **Tạo và quản lý công thức nấu ăn**
+- **Tính toán chi phí nguyên liệu**
+- **Tìm kiếm công thức**
 
 ## Cấu trúc dự án
 
