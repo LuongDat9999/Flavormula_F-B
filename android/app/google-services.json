@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "553720620600",
+    "project_id": "flavormula-92dd8",
+    "storage_bucket": "flavormula-92dd8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553720620600:android:cc380ee750389f505be8cd",
+        "android_client_info": {
+          "package_name": "com.flavormula.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553720620600-sj78phd4l3dvhvkgvf0lg8bq3l1a3em9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flavormula.app",
+            "certificate_hash": "60411bb6302988fc60ec07ac15ef1c6edf8b6f35"
+          }
+        },
+        {
+          "client_id": "553720620600-4njbbhf7fjj4knelpsckalc3bpsmlpk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvatvnJHFFeGICAjqbcN9c8dcEH8ORuqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553720620600-4njbbhf7fjj4knelpsckalc3bpsmlpk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
